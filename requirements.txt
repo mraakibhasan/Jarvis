@@ -1,0 +1,9 @@
+pyttsx3
+bs4
+pyautogui
+wikipedia
+psutil
+speedtest
+requests
+pywhatkit
+wolframalpha
